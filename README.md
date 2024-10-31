@@ -1,5 +1,6 @@
 <div align="center">
-    <img style="height: 320px;width: 420px; border-radius: 20px;"  src="https://img.freepik.com/vetores-gratis/cute-girl-hacker-operando-laptop-cartoon-vector-icon-ilustracao-pessoas-tecnologia-isolada-plana_138676-9487.jpg?t=st=1730333113~exp=1730336713~hmac=ea34dfd6d46f47d5573f7e4143752a9c8aef096b4ec6a8513d03e4cf127b6fe6&w=740">
+ <img src="https://camo.githubusercontent.com/d87f6bc5e0f23eb17defa84cab9505793da71b63b338649c391991ae31143b3d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31352f35322f34662f31353532346663393764613164656239393263303061626461623239356231662e676966" alt="Coding Animation"/></div>
+
 
 </div>
 
@@ -25,7 +26,7 @@ Sou uma desenvolvedora que se apaixonou por tecnologia, tenho como objetivo de c
     [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,visualstudio,eclipse)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,eclipse)](https://skillicons.dev)
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
